@@ -1,5 +1,5 @@
 from langchain_chroma import Chroma
-from embedding_func import get_google_embedding_function, get_openai_embedding_function
+from backend.embedding_func import get_google_embedding_function, get_openai_embedding_function
 
 CHROMA_PATH = "chroma"
 

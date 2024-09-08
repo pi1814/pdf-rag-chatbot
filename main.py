@@ -1,6 +1,6 @@
 from fastapi import FastAPI
 from pydantic import BaseModel
-from ChatbotHandler import ChatbotHandler
+from backend.ChatbotHandler import ChatbotHandler
 
 class QueryModel(BaseModel):
     query: str | None = None

@@ -1,0 +1,10 @@
+pypdf
+langchain
+chromadb
+pytest
+langchain-openai
+uvicorn
+langchain-chroma
+langchain-google-genai
+langchain-ollama
+langchain-community

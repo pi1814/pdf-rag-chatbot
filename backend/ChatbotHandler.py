@@ -1,5 +1,5 @@
-from DocumentRetriever import DocumentRetriever
-from ModelHandler import ModelHandler
+from backend.DocumentRetriever import DocumentRetriever
+from backend.ModelHandler import ModelHandler
 from langchain.prompts import ChatPromptTemplate
 
 retrieve_and_summarize_prompt_template = """
