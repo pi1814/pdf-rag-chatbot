@@ -1,4 +1,4 @@
-# PDF_CHAT_WITH_RAG
+# PDF Chat with Retrieval-Augmented Generation (RAG)
 
 ## Steps:
 1. Clone the project
